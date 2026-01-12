@@ -12,7 +12,7 @@ Outputs:
 Bats_stats.xlsx → Team-wise batting performance (Runs, Strike Rate, Average, Boundaries, High Scores).
 Bowler_stats.xlsx → Team-wise bowling performance (Wickets, Economy, Strike Rate, Dot Balls, Best Bowling Innings).
 
-⚙️ Features
+Features:
 Batting Stats
 Matches played per team
 Total runs scored
@@ -33,7 +33,6 @@ Wickets taken
 Best Bowling Innings (BBI)
 
 Derived metrics:
-
 Bowling Average = Runs ÷ Wickets
 Economy Rate = Runs ÷ (Balls ÷ 6)
 Bowling Strike Rate = Balls ÷ Wickets
@@ -63,8 +62,7 @@ Output files will be generated:
 Bats_stats.xlsx
 Bowler_stats.xlsx
 
-
-🤝 Contributing
+Contributing
 
 Fork this repo
 
@@ -74,6 +72,6 @@ Commit your changes (git commit -m "Added feature")
 
 Push and open a Pull Request
 
-📜 License
+License
 
 This project is open-source under the MIT License.
